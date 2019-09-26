@@ -7,10 +7,10 @@ This repository is for attendees of Databricks Hands-on seminar.
 - olist_products_dataset.csv
 - product_category_name_translation.csv
 
-You can download CSV files from [**HERE**](https://github.com/catetin/Databricks_Handson_Seminar/archive/master.zip)
+You can download thEm from [**HERE**](https://github.com/catetin/Databricks_Handson_Seminar/archive/master.zip)
 
 ## Power BI Dashboard
-Here's the [**Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiOGFmOTM5NDEtNTZkMi00MmYxLWFmZDAtYzgzNWYxNjFlN2FlIiwidCI6IjYxNTc5NTU5LWNiM2EtNGZmYy1hOTVmLTkwNzYzMmJhNDRlOCJ9) made by Power BI. Raw data for this dashboard has been made using **Azure Databricks**.
+Here's the [**Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiOGFmOTM5NDEtNTZkMi00MmYxLWFmZDAtYzgzNWYxNjFlN2FlIiwidCI6IjYxNTc5NTU5LWNiM2EtNGZmYy1hOTVmLTkwNzYzMmJhNDRlOCJ9) made by Power BI. Source data for this dashboard has been made by using **Azure Databricks** from above CSV files.
 
 - table for PBI.csv
 
