@@ -8,13 +8,11 @@ This repository is for attendees of Databricks Hands-on seminar.
 - product_category_name_translation.csv
 
 ### Power BI Dashboard
-You can check **Power BI Dashboard** made by above 3 CSV files using **Databricks**;
-[**THIS**](https://app.powerbi.com/view?r=eyJrIjoiOGFmOTM5NDEtNTZkMi00MmYxLWFmZDAtYzgzNWYxNjFlN2FlIiwidCI6IjYxNTc5NTU5LWNiM2EtNGZmYy1hOTVmLTkwNzYzMmJhNDRlOCJ9). Below is its source data.
+You can check [**Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiOGFmOTM5NDEtNTZkMi00MmYxLWFmZDAtYzgzNWYxNjFlN2FlIiwidCI6IjYxNTc5NTU5LWNiM2EtNGZmYy1hOTVmLTkwNzYzMmJhNDRlOCJ9)
+Below is its source data which was made from above 3 CSVs.
 
 - table for PBI.csv
 
 ### Reference
 Please refer to [**Wiki**](https://github.com/catetin/Databricks_Handson_Seminar/wiki) (Japanese) for hands-on flow.
-Further detail will follow on [**my Qiita account**](https://qiita.com/Catetin0310) (Japanese).
-
-You can download them from [**HERE**](https://github.com/catetin/Databricks_Handson_Seminar/archive/master.zip)
+Further detail will follow later on [**my Qiita account**](https://qiita.com/Catetin0310) (Japanese).
