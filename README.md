@@ -8,7 +8,8 @@ This repository is for attendees of Databricks Hands-on seminar.
 - product_category_name_translation.csv
 
 ### Power BI Dashboard
-**Power BI Dashboard** made by above 3 CSV files using **Databricks**; [**THIS**](https://app.powerbi.com/view?r=eyJrIjoiOGFmOTM5NDEtNTZkMi00MmYxLWFmZDAtYzgzNWYxNjFlN2FlIiwidCI6IjYxNTc5NTU5LWNiM2EtNGZmYy1hOTVmLTkwNzYzMmJhNDRlOCJ9). Below is its source data.
+You can check **Power BI Dashboard** made by above 3 CSV files using **Databricks**;
+[**THIS**](https://app.powerbi.com/view?r=eyJrIjoiOGFmOTM5NDEtNTZkMi00MmYxLWFmZDAtYzgzNWYxNjFlN2FlIiwidCI6IjYxNTc5NTU5LWNiM2EtNGZmYy1hOTVmLTkwNzYzMmJhNDRlOCJ9). Below is its source data.
 
 - table for PBI.csv
 
