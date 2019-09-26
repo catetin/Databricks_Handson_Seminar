@@ -15,4 +15,6 @@ which was made from above 3 CSVs. Below is the combined table.
 
 ### Reference
 Please refer to [**Wiki**](https://github.com/catetin/Databricks_Handson_Seminar/wiki) (Japanese) for hands-on flow.
-Further detail will follow later on [**my Qiita account**](https://qiita.com/Catetin0310) (Japanese).
+
+As for detail information regarding 'How-to' stuff,
+Please chech [**my Qiita account**](https://qiita.com/Catetin0310) (Japanese).
