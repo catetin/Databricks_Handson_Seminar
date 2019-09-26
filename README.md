@@ -1,6 +1,6 @@
 3 CSV files below are from [**Brazilian E-Commerce Public Dataset by Olist**](https://www.kaggle.com/olistbr/brazilian-ecommerce)
 
-- [olist_order_items_dataset.csv](https://github.com/catetin/Databricks_Handson_Seminar/blob/master/olist_order_items_dataset.csv)
+- [olist_order_items_dataset.csv](https://github.com/catetin/Databricks_Handson_Seminar/raw/master/olist_order_items_dataset.csv)
 - [olist_products_dataset.csv](https://github.com/catetin/Databricks_Handson_Seminar/blob/master/olist_products_dataset.csv)
 - [product_category_name_translation.csv](https://github.com/catetin/Databricks_Handson_Seminar/blob/master/product_category_name_translation.csv)
 
