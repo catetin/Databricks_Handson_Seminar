@@ -9,7 +9,7 @@ This repository is for attendees of Databricks Hands-on seminar.
 
 ### Power BI Dashboard
 You can check [**Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiOGFmOTM5NDEtNTZkMi00MmYxLWFmZDAtYzgzNWYxNjFlN2FlIiwidCI6IjYxNTc5NTU5LWNiM2EtNGZmYy1hOTVmLTkwNzYzMmJhNDRlOCJ9)
-Below is its source data which was made from above 3 CSVs.
+which was made from above 3 CSVs. Below is the combined table.
 
 - table for PBI.csv
 
