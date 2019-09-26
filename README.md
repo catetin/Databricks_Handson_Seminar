@@ -1,7 +1,7 @@
 This repository is for attendees of Databricks Hands-on seminar.
 
 ## CSV data
-3 CSV files below are from [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce) on Kaggle. You can download them from [**HERE**](https://github.com/catetin/Databricks_Handson_Seminar/archive/master.zip)
+3 CSV files below are from [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce) on Kaggle. 
 
 - olist_order_items_dataset.csv
 - olist_products_dataset.csv
@@ -13,4 +13,5 @@ See [**Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiOGFmOTM5NDEt
 - table for PBI.csv
 
 ## Reference
-Please refer to Wiki (Japanese) for hands-on flow. Details will follow on my [Qiita account](https://qiita.com/Catetin0310) (Japanese).
+Please refer to Wiki (Japanese) for hands-on flow. Details will follow on [**my Qiita account**](https://qiita.com/Catetin0310) (Japanese).
+You can download them from [**HERE**](https://github.com/catetin/Databricks_Handson_Seminar/archive/master.zip)
