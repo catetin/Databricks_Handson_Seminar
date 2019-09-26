@@ -1,4 +1,4 @@
-This repository is for attendees of Databricks Hands-on seminar on 2019/09/27 at Microsoft Japan.
+This repository is for attendees of Databricks Hands-on seminar.
 
 ## CSV data
 3 CSV files below are from [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce) on Kaggle.
