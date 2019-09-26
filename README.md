@@ -13,5 +13,7 @@ See [**Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiOGFmOTM5NDEt
 - table for PBI.csv
 
 ## Reference
-Please refer to Wiki (Japanese) for hands-on flow. Details will follow on [**my Qiita account**](https://qiita.com/Catetin0310) (Japanese).
+Please refer to [**Wiki**](https://github.com/catetin/Databricks_Handson_Seminar/wiki) (Japanese) for hands-on flow.
+Further detail will follow on [**my Qiita account**](https://qiita.com/Catetin0310) (Japanese).
+
 You can download them from [**HERE**](https://github.com/catetin/Databricks_Handson_Seminar/archive/master.zip)
