@@ -8,7 +8,7 @@ Below CSV file has been merged from above files for Power BI visualization
 
 - table for PBI.csv
 
-Here's the [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGFmOTM5NDEtNTZkMi00MmYxLWFmZDAtYzgzNWYxNjFlN2FlIiwidCI6IjYxNTc5NTU5LWNiM2EtNGZmYy1hOTVmLTkwNzYzMmJhNDRlOCJ9)
+Here's the [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGFmOTM5NDEtNTZkMi00MmYxLWFmZDAtYzgzNWYxNjFlN2FlIiwidCI6IjYxNTc5NTU5LWNiM2EtNGZmYy1hOTVmLTkwNzYzMmJhNDRlOCJ9)
 
 My Qiita account; https://qiita.com/Catetin0310
 
