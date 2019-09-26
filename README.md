@@ -4,7 +4,7 @@ This repository is for attendees of Databricks Hands-on seminar on 2019/09/27 at
 Download Data from [HERE](https://github.com/catetin/Databricks_Handson_Seminar/archive/master.zip)
 
 ## CSV data
-3 CSV files below are from [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce)
+3 CSV files below are from [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce) on Kaggle.
 
 - olist_order_items_dataset.csv
 - olist_products_dataset.csv
