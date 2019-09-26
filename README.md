@@ -12,7 +12,7 @@ Here's the [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGFmOTM5N
 
 My Qiita account; https://qiita.com/Catetin0310
 
-Download Link https://github.com/catetin/Databricks_Handson_Seminar.git
+Download Link https://github.com/catetin/Databricks_Handson_Seminar/archive/master.zip
 
 ------------------------------------------------------------------------------
 
